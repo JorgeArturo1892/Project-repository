@@ -5,6 +5,8 @@ import streamlit as st
 cars_df = pd.read_csv('vehicles_us.csv')  # leer los datos de los vehículos
 # creación de una casilla de verifiación
 hist_check = st.checkbox('Construir histograma')
+st.header('Exploración gráfica de datos de los anuncios para la venta de vehículos')
+st.write('En esta aplicación podremos encontrar dos gráficas para la visualización de datos de nuestros vehículos en venta')
 
 if hist_check:  # hacer click en la casilla
     # encabezado
