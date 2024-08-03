@@ -10,4 +10,4 @@ necesarias para su desarrollo, el uso de streamlit, creación de gráficos del t
 visualización de datos, generamos los archivos necesarios para la creación de la aplicación en Render.
 
 # Enlace de aplicación web:
-https://project-repository-xld2.onrender.com/
+https://project-repository-1.onrender.com/
